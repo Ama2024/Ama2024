@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ama2024
+- 👀 I’m interested in learning Python and machine learning modelling. 
+- 🌱 I’m currently learning Python coding
+- 💞️ I’m looking to collaborate on creating forecasting models using machine learning. 
